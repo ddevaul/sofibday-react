@@ -9,7 +9,7 @@ export default class Funfacts extends React.Component {
           <li>Amazing Chef</li>
           <li>Relationshp Guru</li>
           <li>My Personal Confidant</li>
-          <li>5' (on a good day)</li>
+          <li>An Amazing Friend</li>
         </ol>
       </div>
     );

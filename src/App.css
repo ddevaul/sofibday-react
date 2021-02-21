@@ -60,4 +60,7 @@ background-size: cover;
   .carousel-container {
     width: 80%;
   }
+  .funfacts ol {
+    width: 80%;
+  }
 }
