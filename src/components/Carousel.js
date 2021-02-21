@@ -26,11 +26,51 @@ export default class CarouselFilled extends React.Component {
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src="sofibday3.jpg"
+      src="sofibday3.jpeg"
       alt="Third slide"
     />
     <Carousel.Caption>
     <h3>We love you!</h3>
+    </Carousel.Caption>
+  </Carousel.Item>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src="sofibday4.JPG"
+      alt="Third slide"
+    />
+    <Carousel.Caption>
+    <h3>Cuties!</h3>
+    </Carousel.Caption>
+  </Carousel.Item>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src="sofibday5.jpeg"
+      alt="Third slide"
+    />
+    <Carousel.Caption>
+    <h3>Barely!</h3>
+    </Carousel.Caption>
+  </Carousel.Item>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src="sofibday6.jpeg"
+      alt="Third slide"
+    />
+    <Carousel.Caption>
+    <h3>Bratz lips!</h3>
+    </Carousel.Caption>
+  </Carousel.Item>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src="sofibday7.jpeg"
+      alt="Third slide"
+    />
+    <Carousel.Caption>
+    <h3>A QUEEN!!!!!</h3>
     </Carousel.Caption>
   </Carousel.Item>
 </Carousel>) 
