@@ -2,7 +2,9 @@ import React from "react";
 import Carousel from "react-bootstrap/Carousel";
 export default class CarouselFilled extends React.Component {
   render() {
-    return (<Carousel>
+    return (
+      <div className="carousel-container">
+    <Carousel>
   <Carousel.Item>
     <img
       className="d-block w-100"
@@ -73,6 +75,9 @@ export default class CarouselFilled extends React.Component {
     <h3>A QUEEN!!!!!</h3>
     </Carousel.Caption>
   </Carousel.Item>
-</Carousel>) 
+</Carousel>
+</div>
+) 
+
   }
 }
