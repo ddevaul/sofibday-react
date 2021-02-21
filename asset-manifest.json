@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/sofibday-react/static/css/main.d306f69e.chunk.css",
-    "main.js": "/sofibday-react/static/js/main.45b58fd9.chunk.js",
-    "main.js.map": "/sofibday-react/static/js/main.45b58fd9.chunk.js.map",
+    "main.css": "/sofibday-react/static/css/main.22390532.chunk.css",
+    "main.js": "/sofibday-react/static/js/main.5a969f59.chunk.js",
+    "main.js.map": "/sofibday-react/static/js/main.5a969f59.chunk.js.map",
     "runtime-main.js": "/sofibday-react/static/js/runtime-main.55244552.js",
     "runtime-main.js.map": "/sofibday-react/static/js/runtime-main.55244552.js.map",
     "static/css/2.150d169a.chunk.css": "/sofibday-react/static/css/2.150d169a.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.fff1c8e9.chunk.js.map": "/sofibday-react/static/js/2.fff1c8e9.chunk.js.map",
     "index.html": "/sofibday-react/index.html",
     "static/css/2.150d169a.chunk.css.map": "/sofibday-react/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.d306f69e.chunk.css.map": "/sofibday-react/static/css/main.d306f69e.chunk.css.map",
+    "static/css/main.22390532.chunk.css.map": "/sofibday-react/static/css/main.22390532.chunk.css.map",
     "static/js/2.fff1c8e9.chunk.js.LICENSE.txt": "/sofibday-react/static/js/2.fff1c8e9.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/sofibday-react/static/media/logo.6ce24c58.svg"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.55244552.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.fff1c8e9.chunk.js",
-    "static/css/main.d306f69e.chunk.css",
-    "static/js/main.45b58fd9.chunk.js"
+    "static/css/main.22390532.chunk.css",
+    "static/js/main.5a969f59.chunk.js"
   ]
 }
