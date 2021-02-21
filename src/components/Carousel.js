@@ -52,7 +52,7 @@ export default class CarouselFilled extends React.Component {
       alt="Third slide"
     />
     <Carousel.Caption>
-    <h3>Barely!</h3>
+    <h3>Clown!</h3>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -62,7 +62,7 @@ export default class CarouselFilled extends React.Component {
       alt="Third slide"
     />
     <Carousel.Caption>
-    <h3>Bratz lips!</h3>
+    <h3>Parisian Heartthrob!</h3>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
