@@ -1,5 +1,5 @@
 ## This is a website I built for my friend's birthday. I built it with react and it demonstrates my ability to work with React class components.
-#Getting Started with Create React App
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
